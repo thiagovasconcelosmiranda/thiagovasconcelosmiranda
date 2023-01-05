@@ -3,10 +3,13 @@
 
 
 ### Olá! Eu sou o Thiago Vasconcelos Miranda ✋
+
+[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://cv.lbesson.qc.to/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vasconcelos-miranda/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
-
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovasconcelosmiranda&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovasconcelosmiranda)](https://github.com/thiagovasconcelosmiranda/github-readme-stats)
 
 ### Tecnologias que eu uso no dia
 
@@ -23,10 +26,19 @@
      <img aLign="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
 
+
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Entre em contato por email email: 
 -[thiagovasconcelos.miranda12@gmail.com](https://www.google.com/)
+
+
+
+
+
+
+
 
 
 
