@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-
-### Olá! Eu sou o Thiago Vasconcelos Miranda ✋
+### Olá! Eu sou o Thiago! seja bem vindos ao meu GITHUB 👋
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://cv.lbesson.qc.to/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
