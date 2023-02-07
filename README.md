@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Thiago! Seja bem vindos ao meu GITHUB 👋
 
-[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](hiagoporgramador.000webhostapp.com)
+[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://thiagoporgramador.000webhostapp.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vasconcelos-miranda/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThiagoPrograma)
